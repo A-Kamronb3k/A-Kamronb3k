@@ -19,7 +19,7 @@ Four production-style projects, shipped in public. Each one ends with a live dem
 | # | Project | Stack | Status |
 |---|---------|-------|--------|
 | 1 | [aws-static-site-cicd](https://github.com/A-Kamronb3k/aws-static-site-cicd) | S3 · CloudFront (OAC) · GitHub Actions (OIDC) | ✅ **Live** |
-| 2 | Containerized Feedback API | Docker · GHCR · Trivy · free PaaS | 🚧 Week 2 |
+| 2 | [dockerized-feedback-api](https://github.com/A-Kamronb3k/dockerized-feedback-api) | Docker · GHCR · Trivy · Render | ✅ **Live** |
 | 3 | Serverless Notes App — 100% IaC | Lambda · API Gateway · DynamoDB · Terraform | ⏳ Week 3 |
 | 4 | Observability Pipeline | CloudWatch · X-Ray · SNS · tfsec | ⏳ Week 4 |
  
